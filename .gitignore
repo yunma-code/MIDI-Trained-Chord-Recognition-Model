@@ -1,1 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+env/
+venv/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MIDI files
+DataPreprocess/lakh-midi-clean/
+DataPreprocess/test_chord_dataset.csv
+
 midi_folder/*.midi
+
+# Logs files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
