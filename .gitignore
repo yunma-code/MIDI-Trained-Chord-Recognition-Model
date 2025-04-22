@@ -27,4 +27,5 @@ midi_folder/*.midi
 *.tmp
 
 # VS Code
-.vscode/
+.vscode/.DS_Store
+.DS_Store
