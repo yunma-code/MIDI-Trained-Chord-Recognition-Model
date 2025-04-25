@@ -16,9 +16,8 @@ venv/
 .DS_Store
 Thumbs.db
 
-# MIDI files
-DataPreprocess/lakh-midi-clean/
-DataPreprocess/test_chord_dataset.csv
+src/lakh-midi-clean/
+src/test_chord_dataset.csv
 
 midi_folder/*.midi
 
