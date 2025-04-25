@@ -21,7 +21,6 @@ This repository contains an end-to-end deep learning framework for Automatic Cho
 ├── .gitignore                             # ignores
 ├── requirements.txt                       # deps
 └── README.md 
-
 ```
 
 ## Installation
