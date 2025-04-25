@@ -12,15 +12,15 @@ This repository contains an end-to-end deep learning framework for Automatic Cho
 
 ## Repository Structure
 ```
-├── src
-│   ├── chord_recognition_pipeline.ipynb  # End-to-end pipeline and experiments
-│   ├── checkouts/
-│   ├── midi_folder/
-│   ├── output/
-│   ├── results/
-├── .gitignore                      
-├── requirements.txt               
-└── README.md                     
+├── src/                                   # Source Code
+│   ├── chord_recognition_pipeline.ipynb   # notebook
+│   ├── checkouts/                         # clean scripts
+│   ├── midi_folder/                       # MIDI files for developing, not actual experiments
+│   ├── output/                            # model outputs
+│   └── results/                           # eval plots
+├── .gitignore                             # ignores
+├── requirements.txt                       # deps
+└── README.md 
 
 ```
 
